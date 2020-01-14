@@ -1,2 +1,3 @@
-# CPIO_Ext
-Save input and output texts from popular competitive programming sites and use them on your machine for testing.
+# codeforces input testcase fetecher Extension
+Save all the input testcases in your machine and intergrate with your code.cpp file(which file you want to use for the coding)
+
